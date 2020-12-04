@@ -40,6 +40,8 @@ This corpus file defines various degrees of plagiarism. They are categorized int
   c)Heavy Revision: Each sentence is rephrased heavily into sentences with similar meaning
   d)Non-Plagiarism: Participants read Wikipedia articles and write answers based on their understanding
   
+Output Files: The explanation about the output generated is available in "Locality_Sensitive_Hashing.py" python file which explains clearly each step on how is the end result obtained.
+  
 
 
 
