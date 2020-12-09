@@ -13,9 +13,12 @@ b)Min Hashing: It involves 3 internal computation steps and they are: Generating
 c)Locality Sensitive Hashing (Candidate Generation): It takes the outputs scores obtained from Min Hahshing and performs the following steps:
 
 --> Constructing Hash Signature Matrix based on the value of "L" into 'm' bands and 'n' rows.
+
 --> Generating a Signature Vector for Original Wikipedia Articles and split them into 'm' bands and 'n' rows and hash them to same buckets of the original data  
     which form the candidate documents.
---> Evaluting Jaccard Similarity between the candidate and original documents which completes the fact check
+    
+--> Evaluting Jaccard Similarity between the candidate and original documents which completes the fact check.
+
 --> Final step is to report the number of false positives and false negatives whose Jaccard Similarity Scores are compared to a value of "t".
 
 
