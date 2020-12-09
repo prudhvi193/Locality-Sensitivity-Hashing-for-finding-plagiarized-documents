@@ -38,9 +38,13 @@ The given data corpus is made of short answers (200-300 words) to 5 basic Comput
 
 4)corpus-final09.xls: 
 This corpus file defines various degrees of plagiarism. They are categorized into 4 types and they are:
+
   a)Cut: Answers were directly copied from the Wikipedia
+  
   b)Light Revision: Copied with little alterations on words and phrases
+  
   c)Heavy Revision: Each sentence is rephrased heavily into sentences with similar meaning
+  
   d)Non-Plagiarism: Participants read Wikipedia articles and write answers based on their understanding
   
 Output Files: The explanation about the output generated is available in "Locality_Sensitive_Hashing.py" python file which explains clearly each step on how is the end result obtained.
