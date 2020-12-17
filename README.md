@@ -30,7 +30,7 @@ Description about the files:
 
 1)Project-2.pdf: This file contains the steps associated for developing the application and also the intermediate output formats for executing the program.
 
-2)Locality_Sensitive_Hashing.py: Python program developed for detecting plagiarism between documents using Locality Sensitive Hashing and its associated internal steps.
+2)Locality_Sensitive_Hashing.py/Locality_Sensitive_Hashing.ipynb: Python program developed for detecting plagiarism between documents using Locality Sensitive Hashing and its associated internal steps.
 
 3)corpus-20090418: Contains the input set of documents segregated into multiple "groups" of files for which I had processed and applied the steps involved in Locality Sensitive Hashing and detected the plagiarism between documents.
 
@@ -47,7 +47,7 @@ This corpus file defines various degrees of plagiarism. They are categorized int
   
   d)Non-Plagiarism: Participants read Wikipedia articles and write answers based on their understanding
   
-Output Files: The explanation about the output generated is available in "Locality_Sensitive_Hashing.py" python file which explains clearly each step on how is the end result obtained.
+Output Files: The explanation about the output generated is available in "Locality_Sensitive_Hashing.ipynb" python file which explains clearly each step on how is the end result obtained.
   
 
 
