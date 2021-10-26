@@ -4,7 +4,7 @@ This project was developed as part of my Master's Course Study in Algorithms and
 
 Authors: Prudhviraj Sheela
 
-The main motive of this project is to understand the process of how do we estimate the approximate or exeact Near Neighbor Search in high dimensional spaces. The process flow includes 3 steps and they are:
+The main motive of this project is to understand the process of how do we estimate the approximate or exact Near Neighbor Search in high dimensional spaces. The process flow includes 3 steps and they are:
 
 a)Shingling: Obtains the k-shingles occurences between the documents.
 
